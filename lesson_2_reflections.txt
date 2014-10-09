@@ -1,0 +1,13 @@
+1) What happens when you initialize a repository? Why do you need it?
+Ans:
+
+When we create a git repositoy, a new hidden folder named .git is created and initalized.
+We need it to track all the exisiting files and organize the metadata of our files.
+
+2) How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans:
+Staging area is different from the working directory in terms of tracking and commiting the files.
+Whenever, if you want to add some files from a working directory to a commit, you can do so by adding a single file or multiple files. To help doing this commiting, the staging area is introduced, so that the files which are to be commited are added to the intermediate area called staging area. 
+The files in the staging area are committed when we use git commit.
+
