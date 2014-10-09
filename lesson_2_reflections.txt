@@ -8,6 +8,8 @@ We need it to track all the exisiting files and organize the metadata of our fil
 
 Ans:
 Staging area is different from the working directory in terms of tracking and commiting the files.
+
 Whenever, if you want to add some files from a working directory to a commit, you can do so by adding a single file or multiple files. To help doing this commiting, the staging area is introduced, so that the files which are to be commited are added to the intermediate area called staging area. 
+
 The files in the staging area are committed when we use git commit.
 
