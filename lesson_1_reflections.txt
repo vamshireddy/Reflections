@@ -42,4 +42,6 @@ ANS:
 We can use git log to see all the commits of a particular repository. Then, we can use git diff commit_old commit_new to look
 at the changes that have been made in the files from the old commit to the new commit.
 
+6) Hey!. how is git going?
 
+Its awesome!
